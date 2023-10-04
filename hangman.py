@@ -1,6 +1,6 @@
 import random
 
-words = ["python", "javascript", "java"]
+words = ["python", "javascript", "java", "react", "android", "ios", "html"]
 
 words_index = random.randint(0,2)
 
