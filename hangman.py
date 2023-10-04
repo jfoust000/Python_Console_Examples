@@ -26,7 +26,7 @@ while (number_of_tries > 0):
 
         index = 0
 
-        while count == 1 or count > 1:
+        while count >= 1:
 
             index = selected_word.find(user_input, index)
 
