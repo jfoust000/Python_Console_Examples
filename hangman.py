@@ -14,6 +14,8 @@ number_of_tries = 6
 
 while (number_of_tries > 0):
 
+    print("\nPython Console Hangman - Category is Software Development")
+
     print("\nMystery word: " + "".join(mystery_word))
 
     user_input = input("\nGuess a letter: ")
