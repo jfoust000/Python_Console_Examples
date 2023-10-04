@@ -2,7 +2,7 @@ import random
 
 words = ["python", "javascript", "java", "react", "android", "ios", "html"]
 
-words_index = random.randint(0,2)
+words_index = random.randint(0,6)
 
 selected_word = words[words_index]
 
